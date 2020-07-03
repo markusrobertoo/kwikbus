@@ -3,7 +3,8 @@
 	function Conn(){
 		$server="localhost";
 		$user="kwikbusi_admin";
-		$pass="G2pI2ZNr_tC=";
+		//$pass="G2pI2ZNr_tC=";
+		$pass="kwikbusadmin";
 			   	
 		$conn = new mysqli($server, $user, $pass,"kwikbusi_kwikbus");
 

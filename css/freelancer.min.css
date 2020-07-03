@@ -95,15 +95,14 @@
  	color:#fff
  }
  #mainNav .navbar-nav li.nav-item a.nav-link:hover{
- 	color:#f2e62c
+ 	color:#18bc9c
  }
  #mainNav .navbar-nav li.nav-item a.nav-link:active,#mainNav .navbar-nav li.nav-item a.nav-link:focus{
  	color:#fff
  }
  #mainNav .navbar-nav li.nav-item a.nav-link.active{
- 	color:#f2e62c
+ 	color:#18bc9c
  }
-
  #mainNav .navbar-toggler{
  	font-size:80%;
  	padding:.8rem
@@ -125,11 +124,11 @@
  }
  #mainNav .navbar-nav>li.nav-item>a.nav-link.active{
  	color:#fff;
- 	background:#f2e62c
+ 	background:#18bc9c
  }
  #mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover{
  	color:#fff;
- 	background:#f2e62c
+ 	background:#18bc9c
  }
  #mainNav.navbar-shrink{
  	padding-top:.5rem;
@@ -261,7 +260,7 @@
 	opacity:1
 }
 .floating-label-form-group-with-focus label{
-	color:#f2e62c
+	color:#18bc9c
 	}
 form .row:first-child .floating-label-form-group{
 	border-top:1px solid #e9ecef
@@ -276,7 +275,7 @@ form .row:first-child .floating-label-form-group{
 	background-color:#1a252f
 }
 a{
-	color:#f2e62c
+	color:#18bc9c
 }
 a:active,a:focus,a:hover{
 	color:#128f76
@@ -291,18 +290,18 @@ a:active,a:focus,a:hover{
 	background-color:#2c3e50!important
 }
 .text-primary{
-	color:#f2e62c!important
+	color:#18bc9c!important
 }
 .text-secondary{
 	color:#2c3e50!important
 }
 .btn-primary{
-	background-color:#f2e62c;
-	border-color:#f2e62c
+	background-color:#18bc9c;
+	border-color:#18bc9c
 }
 .btn-primary:active,.btn-primary:focus,.btn-primary:hover{
-	background-color:#f2e62c;
-	border-color:#f2e62c
+	background-color:#128f76;
+	border-color:#128f76
 }
 .btn-secondary{
 	background-color:#2c3e50;
@@ -345,23 +344,6 @@ a:active,a:focus,a:hover{
 	border-radius: 15% 15% 10px 10px;
 }
 
-.kotak-1{
-    position: relative;
-    margin: .10rem 0 5rem 0;
-    background-color: #fff;
-    -webkit-transition: -webkit-box-shadow .25s;
-    transition: -webkit-box-shadow .25s;
-    transition: box-shadow .25s;
-    transition: box-shadow .25s, -webkit-box-shadow .25s;
-    border-radius: 2px;
-    padding: 5px 10px 1px 5px;
-}
-
-.lengkung-1 {
-	border-radius: 0 0 0 40px;
-	border-top-left-radius: 40px;
-}
-
 .kotak-panel{
 	-webkit-transition: -webkit-box-shadow .25s;
     transition: -webkit-box-shadow .25s;
@@ -370,18 +352,6 @@ a:active,a:focus,a:hover{
     padding: 24px;
     margin: .5rem 0 1rem 0;
     border-radius: 15% 15% 10px 10px;
-    background-color: #fff;
-}
-
-.kotak-panel-1{
-	-webkit-transition: -webkit-box-shadow .25s;
-    transition: -webkit-box-shadow .25s;
-    transition: box-shadow .25s;
-    transition: box-shadow .25s, -webkit-box-shadow .25s;
-    padding: 24px;
-    margin: .5rem 0 1rem 0;
-    border-radius: 0 0 0 40px;
-    border-top-left-radius: 40px;
     background-color: #fff;
 }
 
@@ -401,7 +371,7 @@ a:active,a:focus,a:hover{
 .teal.accent-4{
 	background-color: #f2e62c !important;
 }
-.card-panel, .card, .kotak .card-1 .card-panel-1{
+.card-panel, .card, .kotak{
 	-webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
 }

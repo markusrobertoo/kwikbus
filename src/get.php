@@ -24,8 +24,8 @@ $_3B = 0;
 $_4B = 0;
 $_5B = 0;
 $_6B = 0;
-$lat = -6.379151;
-$lon = 106.885088;
+$lat = -6.379251;
+$lon = 106.885078;
 $asap = 0;
 // cek status di database
 $result = $conn->query("SELECT * FROM data ORDER BY id DESC LIMIT 1");
