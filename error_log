@@ -1,2 +1,0 @@
-[09-Jul-2019 09:36:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwikbusi/public_html/index.php on line 148
-[09-Jul-2019 10:01:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwikbusi/public_html/index.php on line 153
